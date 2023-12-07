@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+p{
+    background-color:black;
+    color: white;
+    font-size: 20px;
+}
+.a{
+    position: fixed;
+    left:  650px;
+}
+.b{
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    width: 100px;
+    color: black;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
